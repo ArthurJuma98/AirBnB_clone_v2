@@ -5,7 +5,7 @@ from datetime import datetime
 from fabric.api import env, local, put, run, runs_once
 
 
-env.hosts = ["34.73.0.174", "35.196.78.105"]
+env.hosts = ["52.91.120.61", "52.91.178.181"]
 """The list of host server IP addresses."""
 
 
